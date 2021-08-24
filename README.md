@@ -18,7 +18,7 @@
   <img align="center" alt="Leo-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="programming-guy" height="30" width="40" src="https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif?cid=ecf05e47qub63oti6aevmdbjhyq7ynsiyvh1tvlc5bij968e&rid=giphy.gif&ct=g">
+  <img align="center" alt="programming-guy"  src="https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif?cid=ecf05e47qub63oti6aevmdbjhyq7ynsiyvh1tvlc5bij968e&rid=giphy.gif&ct=g">
 </div>
 
 ##
@@ -29,4 +29,4 @@
  	<a href="https://www.linkedin.com/in/leonardoviniciuswd/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif?cid=ecf05e47qub63oti6aevmdbjhyq7ynsiyvh1tvlc5bij968e&rid=giphy.gif&ct=g
+<!-- https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif?cid=ecf05e47qub63oti6aevmdbjhyq7ynsiyvh1tvlc5bij968e&rid=giphy.gif&ct=g
