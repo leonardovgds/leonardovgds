@@ -18,7 +18,7 @@
   <img align="center" alt="Leo-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="programming-guy" height="30%" width="30%" src="https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif?cid=ecf05e47qub63oti6aevmdbjhyq7ynsiyvh1tvlc5bij968e&rid=giphy.gif&ct=g">
+  <img align="right" alt="programming-guy" height="20%" width="20%" src="https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif?cid=ecf05e47qub63oti6aevmdbjhyq7ynsiyvh1tvlc5bij968e&rid=giphy.gif&ct=g">
 </div>
 
 ##
