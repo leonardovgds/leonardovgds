@@ -3,7 +3,6 @@
 ### Seja bem vindo ao meu perfil 👋
 
 - 🔭 Atualmente trabalho com front-end.
-- 👨‍🎓 Estudo Análise e Desenvolvimento de Sistemas na UniGoiás.
 - 📚 Gosto muito de ler livros.
 - 👨‍💻 Estou à procura de uma oportunidade para desenvolver meus talentos!
 
