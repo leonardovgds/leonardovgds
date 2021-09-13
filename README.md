@@ -3,7 +3,8 @@
 ### Seja bem vindo ao meu perfil 👋
 
 - 🔭 Atualmente trabalho com front-end.
-- 📚 Gosto muito de ler livros.
+- 📚 Gosto de ler livros.
+- :video_game:	Gosto muito de jogos eletrônicos.
 - 👨‍💻 Estou à procura de uma oportunidade para desenvolver meus talentos!
 
 <div>
