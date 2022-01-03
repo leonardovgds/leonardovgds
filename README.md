@@ -3,7 +3,7 @@
 ### Seja bem vindo ao meu perfil 👋
 
 - 🔭 Atualmente estudo front-end com Javascript e Typescript.
-- 📚 Gosto de ler livros.
+- 📚 Gosto muito de ler.
 - 👨‍💻 Estou à procura de uma oportunidade para desenvolver meus talentos!
 
 <div>
