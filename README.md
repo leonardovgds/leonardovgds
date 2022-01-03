@@ -2,7 +2,7 @@
 
 ### Seja bem vindo ao meu perfil 👋
 
-- 🔭 Atualmente trabalho com front-end.
+- 🔭 Atualmente estudo front-end com Javascript e Typescript.
 - 📚 Gosto de ler livros.
 - 👨‍💻 Estou à procura de uma oportunidade para desenvolver meus talentos!
 
