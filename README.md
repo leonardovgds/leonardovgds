@@ -13,6 +13,7 @@
 </div>
 
 Front-end
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -22,6 +23,7 @@ Front-end
 </div>
   
  Ferramentas
+  
 <div style="display: inline_block"></br>
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg">
