@@ -12,6 +12,7 @@
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardowd&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+ <p>Front-end</p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -21,6 +22,12 @@
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg">
   <img align="right" alt="programming-guy" height="20%" width="20%" src="https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif?cid=ecf05e47qub63oti6aevmdbjhyq7ynsiyvh1tvlc5bij968e&rid=giphy.gif&ct=g">
 </div>
+  
+ <p>Ferramentas:</p>
+ <div style="display: inline_block"></br>
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg">
+ </div>
 
 ##
 
