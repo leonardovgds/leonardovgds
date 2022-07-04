@@ -2,7 +2,7 @@
 
 ### Seja bem vindo ao meu perfil 👋
 
-- 🔭 Atualmente estudo front-end com Javascript e Typescript.
+- 🔭 Atualmente estudo back-end com Java.
 - :briefcase: Trabalho atualmente como Analista de Suporte de TI.
 - 📚 Gosto muito de ler.
 - 👨‍💻 Estou à procura de uma oportunidade para desenvolver meus talentos!
