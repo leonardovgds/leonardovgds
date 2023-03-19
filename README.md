@@ -2,10 +2,9 @@
 
 ### Seja bem vindo ao meu perfil 👋
 
-- 🔭 Atualmente estudo back-end com Java.
-- :briefcase: Trabalho atualmente como Analista de Suporte de TI.
-- 📚 Gosto muito de ler.
-- 👨‍💻 Estou à procura de uma oportunidade para desenvolver meus talentos!
+- :coffee: Programador back-end Java.
+- 📚 Aficionado por leitura.
+- 👨‍💻 Atualmente desenvolvendo projetos pessoais e freelancer.
 
 ### Back-end Skills
 <div style="display: inline_block"><br>
@@ -17,13 +16,14 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></>
   <img align="center" alt="CSS3" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></>
+  <img align="center" alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></>
 </div>
 
 
 ### Ferramentas
 <div style="display: inline_block"></br>
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg">
+  <img align="center" alt="Angular" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></>
+  <img align="center" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></>
 </div>
 
 #
