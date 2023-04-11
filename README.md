@@ -30,7 +30,7 @@
 
 <div>
   	<a href = "mailto:leonardoviniciuswd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 	<a href="https://www.linkedin.com/in/leonardoviniciuswd/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 	<a href="https://www.linkedin.com/in/leonardowd/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <!-- https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif?cid=ecf05e47qub63oti6aevmdbjhyq7ynsiyvh1tvlc5bij968e&rid=giphy.gif&ct=g
