@@ -1,10 +1,11 @@
-## Olá!! Eu me chamo Leonardo Vinícius 
+## Hi! My name is Leonardo Vinícius 
 
-### Seja bem vindo ao meu perfil 👋
+### I'm a developer student.
 
-- :coffee: Programador back-end Java.
-- 📚 Aficionado por leitura.
-- 👨‍💻 Atualmente desenvolvendo projetos pessoais e freelancer.
+- :coffee: Java Developer.
+- 📚 I love reading books.
+- 👨‍💻 Actually, i's studying and practicing Java.
+- :white_check_mark: checkout my projects at my Repository.
 
 ### Back-end Skills
 <div style="display: inline_block"><br>
@@ -20,8 +21,9 @@
 </div>
 
 
-### Ferramentas
+### Tools
 <div style="display: inline_block"></br>
+   <p>Angular | Spring </p>
   <img align="center" alt="Angular" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></>
   <img align="center" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></>
 </div>
