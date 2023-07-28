@@ -2,7 +2,7 @@
 
 ### I'm a developer student.
 
-- :coffee: Java Developer.
+- :coffee: FullStack Developer (Java and Javascript).
 - 📚 I love reading books.
 - 👨‍💻 Actually, i's studying and practicing Java.
 - :white_check_mark: checkout my projects at my Repository.
