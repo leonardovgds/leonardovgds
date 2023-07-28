@@ -4,7 +4,7 @@
 
 - :coffee: FullStack Developer (Java and Javascript).
 - 📚 I love reading books.
-- 👨‍💻 Actually, i's studying and practicing Java.
+- 👨‍💻 Actually, i'm doing freelancer jobs.
 - :white_check_mark: checkout my projects at my Repository.
 
 ### Back-end Skills
