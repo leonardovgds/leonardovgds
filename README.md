@@ -8,7 +8,7 @@
 - :handbag: Actually, doing freelancer projects.
 
 ### Back-end Skills
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
    <img align="center" alt="Java" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></>
 </div>
 
