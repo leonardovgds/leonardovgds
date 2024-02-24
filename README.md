@@ -10,7 +10,7 @@
 ### Back-end Skills
 <div style="display: inline_block">
    <img align="center" alt="Java" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></>
-   [![asdf](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+   <img align="center" alt="Java" height="30" width="80" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></>
 </div>
 
 ### Contact
