@@ -11,6 +11,7 @@
 <div style="display: inline_block">
    <img align="center" alt="Java" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></>
    <img align="center" alt="Java" height="30" width="80" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></>
+   <img align="center" alt="Java" height="30" width="80" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"></>
 </div>
 
 ### Contact
