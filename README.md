@@ -9,8 +9,15 @@
 
 ### Back-end Skills
 <div style="display: inline_block">
+   <p>Java | Spring</p>
    <img align="center" alt="Java" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></>
-   <img align="center" alt="Java" height="30" width="80" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></>
+   <img align="center" alt="Spring" height="30" width="80" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></>
+</div>
+
+### Front-end Skills
+<div style="display: inline_block">
+   <p>Thymeleaf</p>
+   <img align="center" alt="Thymeleaf" height="60" width="60" src="https://www.thymeleaf.org/doc/images/thymeleaf.png"></>
 </div>
 
 ### Contact
