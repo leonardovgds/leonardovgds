@@ -2,10 +2,10 @@
 
 ### I'm a developer student.
 
-- :coffee: Java developer | Fullstack developer.
+- :coffee: Java developer | Software developer.
 - 📚 I love reading books.
 - :white_check_mark: checkout my projects at my Repository.
-- :handbag: Actually, I'm working on small systems, as a fullstack developer, for my own enterprise at ZB Sistemas.
+- :handbag: Actually, I'm working on small systems, as a Software developer, for my own enterprise at ZB Sistemas.
 
 ### Back-end Skills
 <div style="display: inline_block">
