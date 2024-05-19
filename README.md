@@ -1,6 +1,6 @@
 ## Hi! My name is Leonardo Vinícius 
 
-### I'm a developer student.
+### And I'm a software developer.
 
 - :coffee: Java developer | Software developer.
 - 📚 I love reading books.
