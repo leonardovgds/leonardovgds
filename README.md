@@ -5,7 +5,7 @@
 - :coffee: Java developer | Software developer.
 - 📚 I love reading books.
 - :white_check_mark: checkout my projects at my Repository.
-- :handbag: Working as a freelancer fullstack developer, with Java, Springboot andThymeleaf.
+- :handbag: 
 
 ### Back-end Skills
 <div style="display: inline_block">
