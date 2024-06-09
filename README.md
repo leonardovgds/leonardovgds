@@ -2,7 +2,7 @@
 
 ### And I'm a software developer.
 
-- :coffee: Java developer | Software developer.
+- :coffee: Software developer | Java | Spring | Thymeleaf | React.js | Node.js | Next.js
 - 📚 I love reading books.
 - :white_check_mark: checkout my projects at my Repository.
 - :handbag: Software Development Intern
