@@ -1,8 +1,8 @@
 ## Hi! My name is Leonardo Vinícius 
 
-### And I'm a software developer.
+### And I'm a fullstack developer.
 
-- :coffee: Fullstack Software developer | Java | Spring | Thymeleaf | React.js | Node.js | Next.js;
+- :coffee: Fullstack developer  | JavaScript | React.js | Node.js | Next.js;
 - 📚 I love reading books;
 - :white_check_mark: checkout my projects at my Repository;
 - :handbag: Software Development Intern;
