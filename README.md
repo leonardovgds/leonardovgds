@@ -6,24 +6,28 @@
 - 📚 I love reading books;
 - :white_check_mark: checkout my projects at my Repository;
 - :handbag: Software Development Intern;
-- :globe_with_meridians: I speak 5 languages: -Fluent level (Portugues and Spanish) -Intermediary level (English, French and Catalan).
+- :globe_with_meridians: I speak 5 languages:
+-    -Fluent level: Portugues and Spanish.
+-    -Intermediary level English, French and Catalan.
 
 ### Back-end Skills
 <div style="display: inline_block">
-   <p>Java | Spring</p>
-   <img align="center" alt="Java" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></>
-   <img align="center" alt="Spring" height="30" width="80" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></>
+   <p>Javascript | Node.js | Java | Spring</p>
+   <img align="center" alt="Javascript" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></>
+   <img align="center" alt="Node.js" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"></>
+   <img align="center" alt="Java" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"></>
+   <img align="center" alt="Spring" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"></>
 </div>
 
 ### Front-end Skills
 <div style="display: inline_block">
-   <p>Thymeleaf|HTML|CSS|react.js|tailwind.css</p>
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind)](https://skillicons.dev)
-   <!--
-   <img align="center" alt="Thymeleaf" height="30" width="40" src="https://www.thymeleaf.org/doc/images/thymeleaf.png"></>
-   <img align="center" alt="Thymeleaf" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg">
-   <img align="center" alt="Thymeleaf" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg"></>
-</>-->
+   <p>Javascript | HTML | CSS | react.js | tailwind.css | Thymeleaf</p>
+   <img align="center" alt="Javascript" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></>
+   <img align="center" alt="HTML" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></>
+   <img align="center" alt="CSS" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+   <img align="center" alt="React.js" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"></>
+   <img align="center" alt="Tailwind.css" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"></>
+</>
 </div>
 
 ### Contact
