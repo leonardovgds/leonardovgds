@@ -17,11 +17,13 @@
 
 ### Front-end Skills
 <div style="display: inline_block">
-   <p>Thymeleaf | HTML | CSS</p>
+   <p>Thymeleaf|HTML|CSS|react.js|tailwind.css</p>
+   [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind)](https://skillicons.dev)
+   <!--
    <img align="center" alt="Thymeleaf" height="30" width="40" src="https://www.thymeleaf.org/doc/images/thymeleaf.png"></>
    <img align="center" alt="Thymeleaf" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg">
    <img align="center" alt="Thymeleaf" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg"></>
-</>
+</>-->
 </div>
 
 ### Contact
