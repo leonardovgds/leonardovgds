@@ -1,6 +1,6 @@
 ## Hi! My name is Leonardo Vinícius 
 
-### And I'm a fullstack developer.
+### I'm a fullstack developer.
 
 - :coffee: Fullstack developer  | JavaScript | React.js | Node.js | Next.js;
 - 📚 I love reading books;
