@@ -2,7 +2,7 @@
 
 ### I'm a fullstack developer.
 
-- :coffee: Fullstack developer | JavaScript | React.js | Node.js | Tailwind.css;
+- :coffee: Fullstack developer | JavaScript | React.js | Node.js | HTML | CSS | Tailwind.css;
 - 📚 I love reading books;
 - :white_check_mark: checkout my projects at my Repository;
 - :handbag: Software Development Intern;
