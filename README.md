@@ -12,11 +12,9 @@
 
 ### Back-end Skills
 <div style="display: inline_block">
-   <p>Javascript | Node.js | Java | Spring</p>
+   <p>Javascript | Node.js</p>
    <img align="center" alt="Javascript" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></>
    <img align="center" alt="Node.js" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"></>
-   <img align="center" alt="Java" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"></>
-   <img align="center" alt="Spring" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"></>
 </div>
 
 ### Front-end Skills
