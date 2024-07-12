@@ -10,13 +10,6 @@
 -    -Fluent level: Portugues and Spanish.
 -    -Intermediary level English, French and Catalan.
 
-### Back-end Skills
-<div style="display: inline_block">
-   <p>Javascript | Node.js</p>
-   <img align="center" alt="Javascript" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></>
-   <img align="center" alt="Node.js" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"></>
-</div>
-
 ### Front-end Skills
 <div style="display: inline_block">
    <p>Javascript | HTML | CSS | react.js | tailwind.css | Thymeleaf</p>
@@ -26,6 +19,13 @@
    <img align="center" alt="React.js" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"></>
    <img align="center" alt="Tailwind.css" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"></>
 </>
+</div>
+
+### Back-end Skills
+<div style="display: inline_block">
+   <p>Javascript | Node.js</p>
+   <img align="center" alt="Javascript" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></>
+   <img align="center" alt="Node.js" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"></>
 </div>
 
 ### Contact
