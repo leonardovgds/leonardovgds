@@ -1,31 +1,24 @@
 ## Hi! My name is Leonardo Vinícius 
 
-### I'm a fullstack Web developer.
+### I'm a Front-end Web developer.
 
-- :coffee: Fullstack web developer | JavaScript | React.js | Node.js | HTML | CSS | Tailwind.css;
+- :coffee: Front-end Web web developer | JavaScript | React.js | Next.js | HTML | CSS;
 - 📚 I love reading books;
 - :white_check_mark: checkout my projects at my Repository;
-- :handbag: Software Development Intern;
+- :handbag: Front-end Web Developer Intern;
 - :globe_with_meridians: I speak 5 languages:
 -    -Fluent level: Portugues and Spanish.
 -    -Intermediary level English, French and Catalan.
 
 ### Front-end Skills
 <div style="display: inline_block">
-   <p>Javascript | HTML | CSS | react.js | tailwind.css | Thymeleaf</p>
+   <p>Javascript | HTML | CSS | react.js | Next.js</p>
    <img align="center" alt="Javascript" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></>
    <img align="center" alt="HTML" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></>
    <img align="center" alt="CSS" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
    <img align="center" alt="React.js" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"></>
-   <img align="center" alt="Tailwind.css" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"></>
+   <img align="center" alt="Next.js" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Dark.svg"></>
 </>
-</div>
-
-### Back-end Skills
-<div style="display: inline_block">
-   <p>Javascript | Node.js</p>
-   <img align="center" alt="Javascript" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></>
-   <img align="center" alt="Node.js" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"></>
 </div>
 
 ### Contact
