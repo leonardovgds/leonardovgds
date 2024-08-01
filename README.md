@@ -2,7 +2,7 @@
 
 ### I'm a Front-end Web developer.
 
-- :coffee: Front-end Web web developer | JavaScript | React.js | Next.js | HTML | CSS;
+- :coffee: Front-end Web Developer | JavaScript | React.js | Next.js | HTML | CSS;
 - 📚 I love reading books;
 - :white_check_mark: checkout my projects at my Repository;
 - :handbag: Front-end Web Developer Intern;
