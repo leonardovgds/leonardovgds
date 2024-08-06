@@ -2,7 +2,7 @@
 
 ### I'm a Front-end Web developer.
 
-- :coffee: Front-end Web Developer | JavaScript | React.js | Next.js | HTML | CSS;
+- :coffee: FullStack Web Developer | JavaScript | React.js | Next.js | Node.js | HTML | CSS
 - 📚 I love reading books;
 - :white_check_mark: checkout my projects at my Repository;
 - :handbag: Front-end Web Developer Intern;
@@ -18,6 +18,14 @@
    <img align="center" alt="CSS" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
    <img align="center" alt="React.js" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"></>
    <img align="center" alt="Next.js" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Dark.svg"></>
+</>
+</div>
+
+### Back-end Skills
+<div style="display: inline_block">
+   <p>Javascript | Node.js</p>
+   <img align="center" alt="Javascript" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></>
+   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg"></>
 </>
 </div>
 
