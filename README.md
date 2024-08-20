@@ -1,8 +1,8 @@
 ## Hi! My name is Leonardo Vinícius 
 
-### I'm a FullStack Web Developer.
+### I'm a Javascript Backend Developer.
 
-- :coffee: FullStack Web Developer | JavaScript | React.js | Next.js | Node.js | HTML | CSS
+- :coffee: Javascript Backend Developer | React.js | Next.js | Node.js | HTML | CSS
 - 📚 I love reading books;
 - :white_check_mark: checkout my projects at my Repository;
 - :handbag: Front-end Web Developer Intern;
