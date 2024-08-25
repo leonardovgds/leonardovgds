@@ -1,11 +1,11 @@
 ## Hi! My name is Leonardo Vinícius 
 
-### I'm a Javascript Backend Developer.
+### I'm a Javascript Fullstack Developer.
 
-- :coffee: Javascript Backend Developer | React.js | Next.js | Node.js | HTML | CSS
+- :coffee: Javascript Fullstack Developer | React.js | Next.js | Node.js | NestJs
 - 📚 I love reading books;
 - :white_check_mark: checkout my projects at my Repository;
-- :handbag: Front-end Web Developer Intern;
+- :handbag: Fullstack Javascript Developer;
 - :globe_with_meridians: I speak 5 languages:
 -    -Fluent level: Portugues and Spanish.
 -    -Intermediary level English, French and Catalan.
