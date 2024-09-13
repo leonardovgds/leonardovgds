@@ -8,7 +8,8 @@
 - :handbag: Fullstack Javascript Developer;
 - :globe_with_meridians: I speak 5 languages:
 -    -Fluent level: Portugues and Spanish.
--    -Intermediary level English, French and Catalan.
+-    -Intermediary level English and Catalan.
+-    -Basic: French.
 
 ### Front-end Skills
 <div style="display: inline_block">
