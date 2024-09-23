@@ -1,8 +1,8 @@
 ## Hi! My name is Leonardo Vinícius 
 
-### I'm a Javascript Fullstack Developer.
+### I'm a Fullstack Developer.
 
-- :coffee: Javascript Fullstack Developer | React.js | Next.js | Node.js | NestJs
+- :coffee: Desenvolvedor Fullstack | Javascript | Java | React.js | Node.js | NestJs | Thymeleaf
 - 📚 I love reading books;
 - :white_check_mark: checkout my projects at my Repository;
 - :handbag: Fullstack Javascript Developer;
@@ -26,6 +26,7 @@
 <div style="display: inline_block">
    <p>Javascript | Node.js | NestJs</p>
    <img align="center" alt="Javascript" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></>
+   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Light.svg"></>
    <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg"></>
    <img align="center" alt="NestJs" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NestJS-Dark.svg"></>
 </>
