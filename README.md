@@ -2,7 +2,7 @@
 
 ### I'm a Fullstack Developer.
 
-- :coffee: Desenvolvedor Fullstack | Javascript | Java | React.js | Node.js | NestJs | Thymeleaf
+- :coffee: Fullstack Developer | Javascript | Java | React & React Native | Node | NestJs | Thymeleaf
 - 📚 I love reading books;
 - :white_check_mark: checkout my projects at my Repository;
 - :handbag: Fullstack Javascript Developer;
@@ -13,7 +13,7 @@
 
 ### Front-end Skills
 <div style="display: inline_block">
-   <p>Javascript | HTML | CSS | react.js</p>
+   <p>Javascript | HTML | CSS | React / ReactNative</p>
    <img align="center" alt="Javascript" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></>
    <img align="center" alt="HTML" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></>
    <img align="center" alt="CSS" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
