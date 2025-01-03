@@ -1,40 +1,29 @@
 ## Hi! My name is Leonardo Vinícius 
 
-### I'm a Fullstack Developer.
+### I'm a Java Developer.
 
-- :coffee: Fullstack Developer | Javascript | Java | React & React Native | Node | NestJs | Thymeleaf
+- :coffee: Java Developer
 - 📚 I love reading books;
 - :white_check_mark: checkout my projects at my Repository;
-- :handbag: Fullstack Javascript Developer;
+- :handbag: Java Developer;
 - :globe_with_meridians: I speak 5 languages:
 -    -Fluent level: Portugues and Spanish.
--    -Intermediary level English and Catalan.
--    -Basic: French.
+-    -Basic level English, French and Catalan.
 
-### Front-end Skills
+### Skills
 <div style="display: inline_block">
-   <p>Javascript | HTML | CSS | React / ReactNative</p>
-   <img align="center" alt="Javascript" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></>
-   <img align="center" alt="HTML" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></>
-   <img align="center" alt="CSS" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
-   <img align="center" alt="React.js" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"></>
-</>
-</div>
-
-### Back-end Skills
-<div style="display: inline_block">
-   <p>Javascript | Java | Node.js | NestJs</p>
-   <img align="center" alt="Javascript" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></>
+   <p> Java | SpringBoot | HTML | CSS</p>
    <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Light.svg"></>
-   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg"></>
-   <img align="center" alt="NestJs" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NestJS-Dark.svg"></>
+   <img align="center" alt="Springboot" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg"></>
+   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg"></>
+   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg"></>
 </>
 </div>
 
 ### Contact
 <div style="display: inline_block">
   	<a href = "mailto:leonardoviniciuswd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 	<a href="https://www.linkedin.com/in/leonardowd/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 	<a href="https://www.linkedin.com/in/leonardovgds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <!-- https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif?cid=ecf05e47qub63oti6aevmdbjhyq7ynsiyvh1tvlc5bij968e&rid=giphy.gif&ct=g
