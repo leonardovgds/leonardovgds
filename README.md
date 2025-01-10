@@ -7,9 +7,9 @@
 - :white_check_mark: checkout my projects at my Repository;
 - :handbag: Java Developer at Palio Sistemas;
 - :globe_with_meridians: I speak 5 languages:
--    -Fluent level: portuguese and spanish.
--    -Intermediary: english
--    -Basic level: french and catalan.
+-    Fluent level: portuguese and spanish.
+-    Intermediary: english
+-    Basic level: french and catalan.
 
 ### Skills
 <div style="display: inline_block">
