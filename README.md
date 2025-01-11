@@ -1,11 +1,11 @@
 ## Hi! My name is Leonardo Vinícius 
 
-### I'm a Java Developer.
+### I'm a Java Web Developer.
 
-- :coffee: Java Developer
+- :coffee: Java Web Developer
 - 📚 I love reading books;
 - :white_check_mark: checkout my projects at my Repository;
-- :handbag: Java Developer at Palio Sistemas;
+- :handbag: Java Web Developer at Palio Sistemas;
 - :globe_with_meridians: I speak 5 languages:
 -    -> Fluent level: portuguese and spanish.
 -    -> Intermediary: english
