@@ -15,16 +15,17 @@
 <div style="display: inline_block">
    <p> Java | Javascript | HTML | CSS </p>
    <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Light.svg"></>
-   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"></>
+   <img align="center" alt="Javascript" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"></>
    <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg"></>
    <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg"></>
 </div>
 
 ### Tools
 <div style="display: inline_block">
-   <p> Spring Boot | PostgreSQL </p>
+   <p> Spring Boot | Docker | PostgreSQL </p>
    <img align="center" alt="Springboot" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg"></>
-   <img align="center" alt="Springboot" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg"></>
+   <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg"></>
+   <img align="center" alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg"></>
 </div>
 
 ### Contact
