@@ -9,7 +9,7 @@
 - :globe_with_meridians: I speak 5 languages:
 -    -> Fluent level: portuguese and spanish.
 -    -> Intermediary: english
--    -> Basic level: french and catalan.
+-    -> Basic level: french.
 
 ### Skills
 <div style="display: inline_block">
